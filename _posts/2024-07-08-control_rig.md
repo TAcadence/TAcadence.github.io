@@ -15,5 +15,5 @@ sidebar:
 
 # Udemy Control rig for Unreal -1-
 
-![image-20240708232857881](../images/2024-07-08-control_rig/image-20240708232857881.png)
+![image-20240708232857881](/images/2024-07-08-control_rig/image-20240708232857881.png)
 
